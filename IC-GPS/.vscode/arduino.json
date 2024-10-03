@@ -1,0 +1,6 @@
+{
+    "port": "/dev/tty.usbmodem1201",
+    "board": "arduino:samd:mkrwan1310",
+    "programmer": "atmel_ice",
+    "sketch": "station/src/station.ino"
+}
